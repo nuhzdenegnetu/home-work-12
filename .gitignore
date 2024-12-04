@@ -4,7 +4,7 @@ Thumbs.db
 
 # Локальные настройки IDE
 .vscode/
-.idea/
+.idea
 *.suo
 *.user
 *.userosscache
