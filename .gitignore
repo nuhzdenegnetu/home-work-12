@@ -1,0 +1,11 @@
+# Исключение системных файлов
+.DS_Store
+Thumbs.db
+
+# Локальные настройки IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
